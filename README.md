@@ -4,7 +4,7 @@ Welcome to the **GitHub-UserInfo-API** project, where I build an API to fetch in
 
 ## About
 
-This project is all about creating a simple and effective way to access public data about GitHub users. Whether you're looking to fetch user profiles, check out repositories, or explore user activity, this API aims to make it easy and efficient.
+This is one of my projects for my Python learning journey. The goal is to create a simple and effective way to access public data about GitHub users. Whether you're looking to fetch user profiles, check out repositories, or explore user activity, this API aims to make it easy and efficient.
 
 ## Contents
 
